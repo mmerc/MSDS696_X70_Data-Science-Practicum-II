@@ -22,7 +22,7 @@ The second data frame designed for this project consisted of including more rows
 The prediction models utilized in this project are random forest and support vector machine from the sklearn package.  Both models were applied to both df2 and df3 data frames.  The cross-validation process was applied to each model to validate its performance.
 
 ### Results
-The random forest classification model on both data sets yielded 100% accuracy for precision, recall, the f1 score for an overall accuracy score of 100%, which is similar to the results achieved by Aqlan, Markle, and Shamsan (2017), although their data set was constructed differently and contained 320 rows.
+The random forest classification model on both data sets yielded 100% accuracy for precision, recall, the f1 score for an overall accuracy score of 100%.  These results are similar to Aqlan, Markle, and Shamsan (2017), although their data set was constructed differently and contained 320 rows.
 
 The SVM model on the first dataset yielded 100% accuracy metrics, but it was less accurate on the second dataset. The SVM on the second data set resulted in a 99% overall accuracy score and 99% sensitivity or recall. Aqlan, Markle, and Shamsan (2017) achieved at 97.5% overall accuracy for their SVM model on 320 samples and 17 features.
 
