@@ -26,7 +26,7 @@ The random forest classification model on both data sets yielded 100% accuracy f
 
 The SVM model on the first dataset yielded 100% accuracy metrics, but it was less accurate on the second dataset. The SVM on the second data set resulted in a 99% overall accuracy score and 99% sensitivity or recall. Aqlan, Markle, and Shamsan (2017) achieved at 97.5% overall accuracy for their SVM model on 320 samples and 17 features.
 
-Several conclusions were derived from this project. First, the initial dataset with 158 rows and all features results in 100% accuracy metrics for the Random Forest and the SVM. The random forest performed equally well on the second dataset. However, the SVM did not perform as well on the second dataset (df3) as compared to the first (df2). The second dataset with less features did influence the performance of SVM. Lastly, the dataset is easy to classify using these machine learning techniques.  A chart summarizing the overall accuracy is listed below.
+Several conclusions were derived from this project. First, the initial dataset with 158 rows and all features results in 100% accuracy metrics for the Random Forest and the SVM. The random forest performed equally well on the second dataset. However, the SVM did not perform as well on the second dataset (df3) as compared to the first (df2). The second dataset with less features did influence the performance of SVM. Lastly, the dataset is easy to classify using these machine learning techniques.  A chart summarizing the overall accuracy is listed below.  The code for this project is displayed in the Juypter notebook at https://github.com/mmerc/MSDS696_X70_Data-Science-Practicum-II/blob/master/Practicum2Project.ipynb.
 
 Oveall Accuracy Score by Model and Data Set
 
