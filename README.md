@@ -35,3 +35,10 @@ Oveall Accuracy Score by Model and Data Set
 | df2 (158 samples, 24 features) | 100% | 100% |
 | df3 (400 samples, 17 features)| 99% | 100% |
 | Aqlan, Markle & Shamsan (2017)|97.5%| 100% |
+
+### References
+
+Aqlan, F., Markle, R., and Shamsan, A. (2017).  Data Mining for Chronic Kidney Disease Prediction.  Proceedings of the 2017 Industrial and Systems Engineering Conference.  Retrieved on 7/14/18 from https://www.researchgate.net/publication/317231517_Data_Mining_for_Chronic_Kidney_Disease_Prediction
+
+UCI Machine Learning Repository (2015) Retreived at https://archive.ics.uci.edu/ml/datasets/chronic_kidney_disease
+
